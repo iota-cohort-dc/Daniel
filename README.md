@@ -1,11 +1,18 @@
-# Daniel
-Dan's code for web fun
+# Tips for Yellow Belt
+Use your validator: https://validator.w3.org/nu/#textarea
+Set a size: 1000px;
+Plan: Do HTML Code first, then do CSS
+Bring a Lunch
+Draw a small model of the project
+Get a print of the wireframe
+use the outline property:  
+   outline: 1px solid red;
+Don't forget to do CSS RESETS!!!
+To use left, right, top, bottom -- you need the position attribute.
 
-
-Yellow Belt Code:
+#Flexbox codes:
 
 Flexbox: Add "display: flex;" to parent, and "flex: 1;" to the children and figure it out.
-
 
 .menu{
     margin-left: auto;
