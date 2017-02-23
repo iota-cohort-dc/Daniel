@@ -18,6 +18,7 @@
 
 Flexbox: Add "display: flex;" to parent, and "flex: 1;" to the children and figure it out.
 
+```css
 .menu{
     margin-left: auto;
     margin-right: auto;
@@ -51,3 +52,4 @@ div[class^='col-']{
     margin-right: 10px;
     min-width: 200px;
 }
+```
