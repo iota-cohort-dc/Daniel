@@ -15,6 +15,8 @@
 
 
 #Flexbox codes:
+* https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* http://flexboxfroggy.com/
 
 Flexbox: Add "display: flex;" to parent, and "flex: 1;" to the children and figure it out.
 
